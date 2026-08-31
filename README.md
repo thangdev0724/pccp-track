@@ -16,14 +16,22 @@ Mỗi tuần là một thư mục gồm ba loại file:
 
 | Tuần | Chủ đề | Bài tập | Tiến độ |
 | --- | --- | --- | --- |
-| 1 | Stack · Queue · Hash Map — nền tảng cấu trúc dữ liệu | — | *(chưa có nội dung trong repo)* |
+| 1 | [Stack · Queue · Hashmap](week1/README.md) | 12 | 0 / 12 |
 | 2 | [Two Pointers · Sliding Window · Binary Search · Greedy](week2/README.md) | 13 | 4 / 13 |
 | 3 | [Biểu diễn đồ thị · BFS · DFS · Dijkstra](week3/README.md) | 14 | 0 / 14 · mock test #1 |
 | 4 | [Tư duy DP · Prefix Sum · DP 1 chiều · DP 2 chiều](week4/README.md) | 10 | 0 / 10 · mock test #2 |
 
+**Tổng: 4 / 49 bài.**
+
 ---
 
 ## Mục lục lý thuyết
+
+### [Tuần 1 — Stack, Queue & Hashmap](week1/README.md)
+
+1. [Stack](week1/01-stack.md) — LIFO, ghép cặp, monotonic stack
+2. [Queue](week1/02-queue.md) — FIFO, duyệt theo lớp, monotonic deque
+3. [Hashmap & Hashset](week1/03-hashmap.md) — tra cứu, đếm tần suất, gom nhóm
 
 ### [Tuần 2 — Two Pointers, Sliding Window, Binary Search & Greedy](week2/README.md)
 

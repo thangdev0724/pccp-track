@@ -46,9 +46,9 @@ Cuối tuần sẽ diễn ra buổi **mock test thứ hai**, đóng vai trò là
 
 | Kỹ thuật | Dấu hiệu nhận biết | Độ phức tạp |
 | --- | --- | --- |
-| Stack | Ngoặc hợp lệ, phần tử liền kề lớn/nhỏ hơn | → `O(n)` |
-| Queue / [BFS](../week3/02-bfs.md) | Duyệt theo lớp, khoảng cách ngắn nhất không trọng số | → `O(V + E)` |
-| Hashmap | Đếm tần suất, kiểm tra tồn tại, tìm cặp giá trị | `O(n²)` → `O(n)` |
+| [Stack](../week1/01-stack.md) | Ngoặc hợp lệ, phần tử liền kề lớn/nhỏ hơn | → `O(n)` |
+| [Queue](../week1/02-queue.md) / [BFS](../week3/02-bfs.md) | Duyệt theo lớp, khoảng cách ngắn nhất không trọng số | → `O(V + E)` |
+| [Hashmap](../week1/03-hashmap.md) | Đếm tần suất, kiểm tra tồn tại, tìm cặp giá trị | `O(n²)` → `O(n)` |
 | [Two Pointers](../week2/01-two-pointers.md) | Mảng đã sắp xếp, tìm cặp/tổng | `O(n²)` → `O(n)` |
 | [Sliding Window](../week2/02-sliding-window.md) | Subarray/substring liên tiếp thoả điều kiện | `O(n²)` → `O(n)` |
 | [Binary Search](../week2/03-binary-search.md) | Mảng đã sắp xếp, tính đơn điệu | `O(n)` → `O(log n)` |
