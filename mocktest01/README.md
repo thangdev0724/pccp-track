@@ -20,7 +20,7 @@
 | # | Bài | Nguồn | Điểm | Trạng thái |
 | --- | --- | --- | --- | --- |
 | 1 | [[PCCE 기출문제] 9번 / 지폐 접기](https://school.programmers.co.kr/learn/courses/30/lessons/340199) | Programmers | 200 | ⬜ |
-| 2 | [[PCCP 기출문제] 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213) | Programmers | 300 | ⬜ |
+| 2 | [[PCCP 기출문제] 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213) | Programmers | 300 | ✅ [videoPlayer.js](videoPlayer.js) |
 | 3 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | Programmers | 200 | ⬜ |
 | 4 | [[PCCP 기출문제] 3번 / 충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211) | Programmers | 300 | ⬜ |
 
