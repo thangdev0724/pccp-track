@@ -47,7 +47,7 @@ Tuần 3 là tuần "nặng" nhất về mặt kiến thức thuật toán, khi 
 
 | # | Bài | Độ khó | Kỹ thuật | Trạng thái |
 | --- | --- | --- | --- | --- |
-| 1 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | DFS | ⬜ |
+| 1 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | DFS | ✅ |
 | 2 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | Biểu diễn đồ thị | ⬜ |
 | 3 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | Medium | BFS | ⬜ |
 | 4 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | DFS | ⬜ |
