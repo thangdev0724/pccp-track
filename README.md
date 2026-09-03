@@ -18,10 +18,10 @@ Mỗi tuần là một thư mục gồm ba loại file:
 | --- | --- | --- | --- |
 | 1 | [Stack · Queue · Hashmap](week1/README.md) | 12 | 0 / 12 |
 | 2 | [Two Pointers · Sliding Window · Binary Search · Greedy](week2/README.md) | 13 | 4 / 13 |
-| 3 | [Biểu diễn đồ thị · BFS · DFS · Dijkstra](week3/README.md) | 14 | 0 / 14 · [mock test #1](mocktest01/README.md) |
+| 3 | [Biểu diễn đồ thị · BFS · DFS · Dijkstra](week3/README.md) | 14 | 1 / 14 · [mock test #1](mocktest01/README.md) |
 | 4 | [Tư duy DP · Prefix Sum · DP 1 chiều · DP 2 chiều](week4/README.md) | 10 | 0 / 10 · mock test #2 |
 
-**Tổng: 4 / 49 bài.**
+**Tổng: 5 / 49 bài.**
 
 ### Mock test
 

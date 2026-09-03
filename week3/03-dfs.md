@@ -166,7 +166,7 @@ const permute = (nums) => {
 
 | Bài | Độ khó | Trạng thái |
 | --- | --- | --- |
-| [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | ⬜ |
+| [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | ✅ [numIslands.js](numIslands.js) |
 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | ⬜ |
 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium | ⬜ |
 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | Level 2 | ⬜ |
